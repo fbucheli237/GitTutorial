@@ -6,3 +6,5 @@ nothing
 
 
 License: MIT
+
+Git stash Funktion
